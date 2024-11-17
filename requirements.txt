@@ -1,0 +1,12 @@
+pandas
+scikit-learn==1.2.2
+numpy
+tensorflow
+imblearn
+matplotlib
+polars
+seaborn
+shiny
+imblearn
+rsconnect-python
+uvicorn
